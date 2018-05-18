@@ -1,0 +1,9 @@
+.parallelogram {
+	width: 170px;
+	height: 50px;
+	-webkit-transform: skew(40deg);
+	   -moz-transform: skew(40deg);
+	     -o-transform: skew(40deg);
+	background-image: url('../img/small/Shape.png');
+    
+}

@@ -1,0 +1,163 @@
+
+@media (max-width: 576px) {
+
+    .header__item:first-child {
+        margin-left: 15px;
+    }
+    .start__wrapper {
+        padding: 65px 0 100px 0;
+    }
+    .banner {
+        top: 20px;
+        right: 1px;
+        width: 298px;
+    }
+    .work__picture {
+        display: none;
+    }
+    .work__title {
+        font-size: 29px;
+        font-weight: bold;
+    }
+    .services__item {
+        display: block;
+    }
+    .services__item-title {
+        text-align: center;
+    }
+    .services__descr {
+        text-align: center;
+    }
+    .start__images {
+        display: none;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .header__item:first-child {
+        margin-left: 15px;
+    }
+    .work__picture {
+        display: none;
+    }
+    .services__item {
+        display: block;
+    }
+    .services__item-title {
+        text-align: center;
+    }
+    .services__descr {
+        text-align: center;
+    }
+    .polygon__descr-second {
+        left: -3%;
+    }
+    .polygon__box2 {
+        right: 15%;
+    }
+    .polygon__bottle {
+        right: -9%;
+    }
+    .polygon__parallel1 {
+        right: 7%;
+    }
+    .polygon__descr-first {
+        right: 16%;
+    }
+    .polygon__circle {
+        left: 43%;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .header__item:first-child {
+        margin-left: 15px;
+    }
+    .work__picture {
+        width: 370px;
+        top: 200px;
+    }
+    .polygon__box {
+        left: 15%;
+    }
+    .polygon__box2 {
+        right: 22%;
+    }
+    .polygon__bottle {
+        right: 3%;
+    }
+    .polygon__one {
+        left: 15%;
+    }
+    .polygon__two {
+        left: 24%;
+    }
+    .polygon__round {
+        right: 32%;
+    }
+    .polygon__descr-second {
+        left: 5%;
+    }
+    .polygon__arrow {
+        left: 9%;
+    }
+    .polygon__parallel {
+        left: 27%;
+    }
+    .polygon__parallel1 {
+        right: 13%;
+    }
+    .polygon__descr {
+        left: 28%;
+    }
+    .polygon__descr-first {
+        right: 20%;
+    }
+    .polygon__ribbon {
+        left: 20%;
+    }
+    .polygon__circle {
+        left: 47%;
+    }
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .work__picture {
+        width: 440px;
+        top: 170px;
+    }
+    .polygon__box2 {
+        right: 7%;
+    }
+    .polygon__bottle {
+        right: -20%;
+    }
+    .polygon__round {
+        right: 28%;
+    }
+    .polygon__parallel1 {
+        right: 0;
+    }
+    .polygon__circle{
+        left: 47%;
+    }
+    .polygon__descr-first {
+        right: 10%;
+    }
+    .polygon__parallel {
+        left: 13%;
+    }
+    .polygon__descr {
+        left: 15%;
+    }
+}
+
+
+@media (min-width: 1200px) {
+
+}
